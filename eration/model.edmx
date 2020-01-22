@@ -1,0 +1,166 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+  <!-- EF Runtime content -->
+  <edmx:Runtime>
+    <!-- SSDL content -->
+    <edmx:StorageModels>
+      <Schema Namespace="erationModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+        <EntityType Name="quota">
+          <Key>
+            <PropertyRef Name="no" />
+          </Key>
+          <Property Name="category" Type="varchar" MaxLength="50" />
+          <Property Name="rice" Type="int" />
+          <Property Name="wheats" Type="int" />
+          <Property Name="sugar" Type="int" />
+          <Property Name="kerozine" Type="int" />
+          <Property Name="atta" Type="int" />
+          <Property Name="month" Type="varchar" MaxLength="50" />
+          <Property Name="no" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="stock">
+          <Key>
+            <PropertyRef Name="no" />
+          </Key>
+          <Property Name="month" Type="varchar" MaxLength="50" />
+          <Property Name="rice" Type="int" />
+          <Property Name="wheats" Type="int" />
+          <Property Name="sugar" Type="int" />
+          <Property Name="atta" Type="int" />
+          <Property Name="kerozine" Type="int" />
+          <Property Name="no" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ttlsale">
+          <Key>
+            <PropertyRef Name="no" />
+          </Key>
+          <Property Name="month" Type="varchar" MaxLength="50" />
+          <Property Name="rice" Type="int" />
+          <Property Name="wheats" Type="int" />
+          <Property Name="sugar" Type="int" />
+          <Property Name="atta" Type="int" />
+          <Property Name="kerozine" Type="int" />
+          <Property Name="no" Type="int" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="erationModelStoreContainer">
+          <EntitySet Name="quota" EntityType="Self.quota" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="stock" EntityType="Self.stock" Schema="dbo" store:Type="Tables" />
+          <EntitySet Name="ttlsale" EntityType="Self.ttlsale" Schema="dbo" store:Type="Tables" />
+        </EntityContainer>
+      </Schema>
+    </edmx:StorageModels>
+    <!-- CSDL content -->
+    <edmx:ConceptualModels>
+      <Schema Namespace="erationModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+        <EntityType Name="quota">
+          <Key>
+            <PropertyRef Name="no" />
+          </Key>
+          <Property Name="category" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="rice" Type="Int32" />
+          <Property Name="wheats" Type="Int32" />
+          <Property Name="sugar" Type="Int32" />
+          <Property Name="kerozine" Type="Int32" />
+          <Property Name="atta" Type="Int32" />
+          <Property Name="month" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="no" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="stock">
+          <Key>
+            <PropertyRef Name="no" />
+          </Key>
+          <Property Name="month" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="rice" Type="Int32" />
+          <Property Name="wheats" Type="Int32" />
+          <Property Name="sugar" Type="Int32" />
+          <Property Name="atta" Type="Int32" />
+          <Property Name="kerozine" Type="Int32" />
+          <Property Name="no" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityType Name="ttlsale">
+          <Key>
+            <PropertyRef Name="no" />
+          </Key>
+          <Property Name="month" Type="String" MaxLength="50" FixedLength="false" Unicode="false" />
+          <Property Name="rice" Type="Int32" />
+          <Property Name="wheats" Type="Int32" />
+          <Property Name="sugar" Type="Int32" />
+          <Property Name="atta" Type="Int32" />
+          <Property Name="kerozine" Type="Int32" />
+          <Property Name="no" Type="Int32" Nullable="false" />
+        </EntityType>
+        <EntityContainer Name="erationEntities28" annotation:LazyLoadingEnabled="true">
+          <EntitySet Name="quotas" EntityType="Self.quota" />
+          <EntitySet Name="stocks" EntityType="Self.stock" />
+          <EntitySet Name="ttlsales" EntityType="Self.ttlsale" />
+        </EntityContainer>
+      </Schema>
+    </edmx:ConceptualModels>
+    <!-- C-S mapping content -->
+    <edmx:Mappings>
+      <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+        <EntityContainerMapping StorageEntityContainer="erationModelStoreContainer" CdmEntityContainer="erationEntities28">
+          <EntitySetMapping Name="quotas">
+            <EntityTypeMapping TypeName="erationModel.quota">
+              <MappingFragment StoreEntitySet="quota">
+                <ScalarProperty Name="category" ColumnName="category" />
+                <ScalarProperty Name="rice" ColumnName="rice" />
+                <ScalarProperty Name="wheats" ColumnName="wheats" />
+                <ScalarProperty Name="sugar" ColumnName="sugar" />
+                <ScalarProperty Name="kerozine" ColumnName="kerozine" />
+                <ScalarProperty Name="atta" ColumnName="atta" />
+                <ScalarProperty Name="month" ColumnName="month" />
+                <ScalarProperty Name="no" ColumnName="no" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="stocks">
+            <EntityTypeMapping TypeName="erationModel.stock">
+              <MappingFragment StoreEntitySet="stock">
+                <ScalarProperty Name="month" ColumnName="month" />
+                <ScalarProperty Name="rice" ColumnName="rice" />
+                <ScalarProperty Name="wheats" ColumnName="wheats" />
+                <ScalarProperty Name="sugar" ColumnName="sugar" />
+                <ScalarProperty Name="atta" ColumnName="atta" />
+                <ScalarProperty Name="kerozine" ColumnName="kerozine" />
+                <ScalarProperty Name="no" ColumnName="no" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+          <EntitySetMapping Name="ttlsales">
+            <EntityTypeMapping TypeName="erationModel.ttlsale">
+              <MappingFragment StoreEntitySet="ttlsale">
+                <ScalarProperty Name="month" ColumnName="month" />
+                <ScalarProperty Name="rice" ColumnName="rice" />
+                <ScalarProperty Name="wheats" ColumnName="wheats" />
+                <ScalarProperty Name="sugar" ColumnName="sugar" />
+                <ScalarProperty Name="atta" ColumnName="atta" />
+                <ScalarProperty Name="kerozine" ColumnName="kerozine" />
+                <ScalarProperty Name="no" ColumnName="no" />
+              </MappingFragment>
+            </EntityTypeMapping>
+          </EntitySetMapping>
+        </EntityContainerMapping>
+      </Mapping>
+    </edmx:Mappings>
+  </edmx:Runtime>
+  <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <Connection>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="MetadataArtifactProcessing" Value="EmbedInOutputAssembly" />
+      </DesignerInfoPropertySet>
+    </Connection>
+    <Options>
+      <DesignerInfoPropertySet>
+        <DesignerProperty Name="ValidateOnBuild" Value="true" />
+        <DesignerProperty Name="EnablePluralization" Value="true" />
+        <DesignerProperty Name="IncludeForeignKeysInModel" Value="true" />
+        <DesignerProperty Name="UseLegacyProvider" Value="false" />
+        <DesignerProperty Name="CodeGenerationStrategy" Value="None" />
+      </DesignerInfoPropertySet>
+    </Options>
+    <!-- Diagram content (shape and connector positions) -->
+    <Diagrams></Diagrams>
+  </Designer>
+</edmx:Edmx>

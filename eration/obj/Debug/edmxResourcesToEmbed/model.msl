@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="erationModelStoreContainer" CdmEntityContainer="erationEntities28">
+    <EntitySetMapping Name="quotas">
+      <EntityTypeMapping TypeName="erationModel.quota">
+        <MappingFragment StoreEntitySet="quota">
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="rice" ColumnName="rice" />
+          <ScalarProperty Name="wheats" ColumnName="wheats" />
+          <ScalarProperty Name="sugar" ColumnName="sugar" />
+          <ScalarProperty Name="kerozine" ColumnName="kerozine" />
+          <ScalarProperty Name="atta" ColumnName="atta" />
+          <ScalarProperty Name="month" ColumnName="month" />
+          <ScalarProperty Name="no" ColumnName="no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="stocks">
+      <EntityTypeMapping TypeName="erationModel.stock">
+        <MappingFragment StoreEntitySet="stock">
+          <ScalarProperty Name="month" ColumnName="month" />
+          <ScalarProperty Name="rice" ColumnName="rice" />
+          <ScalarProperty Name="wheats" ColumnName="wheats" />
+          <ScalarProperty Name="sugar" ColumnName="sugar" />
+          <ScalarProperty Name="atta" ColumnName="atta" />
+          <ScalarProperty Name="kerozine" ColumnName="kerozine" />
+          <ScalarProperty Name="no" ColumnName="no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="ttlsales">
+      <EntityTypeMapping TypeName="erationModel.ttlsale">
+        <MappingFragment StoreEntitySet="ttlsale">
+          <ScalarProperty Name="month" ColumnName="month" />
+          <ScalarProperty Name="rice" ColumnName="rice" />
+          <ScalarProperty Name="wheats" ColumnName="wheats" />
+          <ScalarProperty Name="sugar" ColumnName="sugar" />
+          <ScalarProperty Name="atta" ColumnName="atta" />
+          <ScalarProperty Name="kerozine" ColumnName="kerozine" />
+          <ScalarProperty Name="no" ColumnName="no" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

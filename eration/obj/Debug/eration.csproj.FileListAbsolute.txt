@@ -1,0 +1,292 @@
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\eration.exe.config
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\eration.exe
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\eration.pdb
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.dll
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.Properties.Resources.resources
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.exe
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.pdb
+c:\users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.eration2.resources
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration1.resources
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration3.resources
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.dll
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.dll
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.dll
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.xml
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.xml
+C:\Users\albin.albin-thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.pdb
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\ml-IN\eration.resources.dll
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.eration1.ml-IN.resources
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\ml-IN\eration.resources.dll
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\en-IN\eration.resources.dll
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.eration1.en-IN.resources
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\en-IN\eration.resources.dll
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.dll
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.dll
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.xml
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.xml
+C:\Users\albin.albin-thomas\documents\visual studio 2015\Projects\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+F:\eration\eration\bin\Debug\eration.exe.config
+F:\eration\eration\obj\Debug\eration.exe
+F:\eration\eration\obj\Debug\eration.pdb
+F:\eration\eration\bin\Debug\eration.exe
+F:\eration\eration\bin\Debug\eration.pdb
+F:\eration\eration\bin\Debug\en-IN\eration.resources.dll
+F:\eration\eration\bin\Debug\ml-IN\eration.resources.dll
+F:\eration\eration\bin\Debug\AForge.dll
+F:\eration\eration\bin\Debug\AForge.Video.dll
+F:\eration\eration\bin\Debug\CircularProgressBar.dll
+F:\eration\eration\bin\Debug\MetroFramework.dll
+F:\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+F:\eration\eration\bin\Debug\WinFormAnimation.dll
+F:\eration\eration\bin\Debug\zxing.dll
+F:\eration\eration\bin\Debug\AForge.xml
+F:\eration\eration\bin\Debug\AForge.Video.xml
+F:\eration\eration\bin\Debug\CircularProgressBar.xml
+F:\eration\eration\bin\Debug\WinFormAnimation.xml
+F:\eration\eration\bin\Debug\zxing.pdb
+F:\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+F:\eration\eration\obj\Debug\eration.eration2.resources
+F:\eration\eration\obj\Debug\eration.eration1.resources
+F:\eration\eration\obj\Debug\eration.eration3.resources
+F:\eration\eration\obj\Debug\eration.Properties.Resources.resources
+F:\eration\eration\obj\Debug\eration.eration1.en-IN.resources
+F:\eration\eration\obj\Debug\eration.eration1.ml-IN.resources
+F:\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+F:\eration\eration\obj\Debug\en-IN\eration.resources.dll
+F:\eration\eration\obj\Debug\ml-IN\eration.resources.dll
+E:\eration\eration\bin\Debug\eration.exe.config
+E:\eration\eration\obj\Debug\eration.exe
+E:\eration\eration\obj\Debug\eration.pdb
+E:\eration\eration\bin\Debug\eration.exe
+E:\eration\eration\bin\Debug\eration.pdb
+E:\eration\eration\bin\Debug\en-IN\eration.resources.dll
+E:\eration\eration\bin\Debug\ml-IN\eration.resources.dll
+E:\eration\eration\bin\Debug\AForge.dll
+E:\eration\eration\bin\Debug\AForge.Video.dll
+E:\eration\eration\bin\Debug\CircularProgressBar.dll
+E:\eration\eration\bin\Debug\MetroFramework.dll
+E:\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+E:\eration\eration\bin\Debug\WinFormAnimation.dll
+E:\eration\eration\bin\Debug\zxing.dll
+E:\eration\eration\bin\Debug\AForge.xml
+E:\eration\eration\bin\Debug\AForge.Video.xml
+E:\eration\eration\bin\Debug\CircularProgressBar.xml
+E:\eration\eration\bin\Debug\WinFormAnimation.xml
+E:\eration\eration\bin\Debug\zxing.pdb
+E:\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+E:\eration\eration\obj\Debug\eration.eration2.resources
+E:\eration\eration\obj\Debug\eration.eration1.resources
+E:\eration\eration\obj\Debug\eration.eration3.resources
+E:\eration\eration\obj\Debug\eration.eration4.resources
+E:\eration\eration\obj\Debug\eration.Properties.Resources.resources
+E:\eration\eration\obj\Debug\eration.eration1.en-IN.resources
+E:\eration\eration\obj\Debug\eration.eration1.ml-IN.resources
+E:\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+E:\eration\eration\obj\Debug\en-IN\eration.resources.dll
+E:\eration\eration\obj\Debug\ml-IN\eration.resources.dll
+H:\eration\eration\bin\Debug\eration.exe.config
+H:\eration\eration\obj\Debug\eration.exe
+H:\eration\eration\obj\Debug\eration.pdb
+H:\eration\eration\bin\Debug\eration.exe
+H:\eration\eration\bin\Debug\eration.pdb
+H:\eration\eration\bin\Debug\en-IN\eration.resources.dll
+H:\eration\eration\bin\Debug\ml-IN\eration.resources.dll
+H:\eration\eration\bin\Debug\AForge.dll
+H:\eration\eration\bin\Debug\AForge.Video.dll
+H:\eration\eration\bin\Debug\CircularProgressBar.dll
+H:\eration\eration\bin\Debug\MetroFramework.dll
+H:\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+H:\eration\eration\bin\Debug\WinFormAnimation.dll
+H:\eration\eration\bin\Debug\zxing.dll
+H:\eration\eration\bin\Debug\AForge.xml
+H:\eration\eration\bin\Debug\AForge.Video.xml
+H:\eration\eration\bin\Debug\CircularProgressBar.xml
+H:\eration\eration\bin\Debug\WinFormAnimation.xml
+H:\eration\eration\bin\Debug\zxing.pdb
+H:\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+H:\eration\eration\obj\Debug\eration.eration2.resources
+H:\eration\eration\obj\Debug\eration.eration1.resources
+H:\eration\eration\obj\Debug\eration.eration3.resources
+H:\eration\eration\obj\Debug\eration.eration4.resources
+H:\eration\eration\obj\Debug\eration.Properties.Resources.resources
+H:\eration\eration\obj\Debug\eration.eration1.en-IN.resources
+H:\eration\eration\obj\Debug\eration.eration1.ml-IN.resources
+H:\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+H:\eration\eration\obj\Debug\en-IN\eration.resources.dll
+H:\eration\eration\obj\Debug\ml-IN\eration.resources.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe.config
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.exe
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.pdb
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.pdb
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\en-IN\eration.resources.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\ml-IN\eration.resources.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.xml
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.xml
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.xml
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.xml
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.pdb
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration2.resources
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration1.resources
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration3.resources
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration4.resources
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.Properties.Resources.resources
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration1.en-IN.resources
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration1.ml-IN.resources
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\en-IN\eration.resources.dll
+C:\Users\albin thomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\ml-IN\eration.resources.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe.config
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.exe
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.pdb
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration2.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration3.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration4.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.Properties.Resources.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.pdb
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.xml
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.xml
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.xml
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.xml
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.pdb
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration5.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration6.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration7.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration8.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\System.Data.Common.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration9.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe.config
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.exe
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.pdb
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.pdb
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\System.Data.Common.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\System.Data.SqlClient.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.dll
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.xml
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.xml
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.xml
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.xml
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.pdb
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration2.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration3.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration4.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration5.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration6.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration7.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration8.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration9.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.Properties.Resources.resources
+C:\Users\IDZ\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration10.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.xml
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration11.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.Design.dll
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration12.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration13.resources
+C:\Users\albinthomas\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe.config
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration10.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration11.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration12.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration13.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration2.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration3.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration4.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration5.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration6.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration7.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration8.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.eration9.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.Properties.Resources.resources
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.exe
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\System.Data.Common.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.dll
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\WinFormAnimation.xml
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\zxing.pdb
+C:\Users\Admin\Documents\Visual Studio 2015\Projects\eration\eration\bin\Debug\eration.pdb
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\eration.exe.config
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.exe
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.pdb
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\eration.exe
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\eration.pdb
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\AForge.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\AForge.Video.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\CircularProgressBar.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\MetroFramework.Design.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\MetroFramework.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\System.Data.Common.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\WinFormAnimation.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\zxing.dll
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\AForge.xml
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\AForge.Video.xml
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\CircularProgressBar.xml
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\WinFormAnimation.xml
+C:\Users\Admin\Desktop\eration\eration\bin\Debug\zxing.pdb
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration10.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration11.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration12.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration13.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration2.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration3.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration4.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration5.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration6.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration7.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration8.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.eration9.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.Properties.Resources.resources
+C:\Users\Admin\Desktop\eration\eration\obj\Debug\eration.csproj.GenerateResource.Cache
